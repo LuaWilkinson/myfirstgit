@@ -1,6 +1,5 @@
-
-this is a draft of my thei
-shell scripting and automation
-
--remove shell scripting and put power shell instead
+Data Carpentry
+- how to use excel properly
+- databases in access
+- Visual basic for applications scripting
 
