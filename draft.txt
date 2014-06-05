@@ -1,3 +1,6 @@
 
-this is a draft of my theis for my f
--shell scripting and automation
+this is a draft of my thei
+shell scripting and automation
+
+-remove shell scripting and put power shell instead
+
