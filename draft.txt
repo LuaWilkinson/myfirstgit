@@ -1,1 +1,3 @@
+
 this is a draft of my theis for my f
+-shell scripting and automation
